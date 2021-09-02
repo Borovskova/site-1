@@ -859,6 +859,14 @@ footer .flexbox .block-4 .wrap img{
       display: block;
        }
    }
+   @media (max-width: 1200px){
+    .grid-posts .container .card{
+     margin-top: 20px;
+     width: 600px;
+     margin-left: auto;
+     margin-right: auto;
+       }
+   }
 @media (max-width: 768px){
     .grid-posts .container .card{
      margin-top: 20px;
